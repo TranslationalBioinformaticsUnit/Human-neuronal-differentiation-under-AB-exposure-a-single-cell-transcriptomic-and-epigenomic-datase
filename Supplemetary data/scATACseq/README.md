@@ -23,7 +23,7 @@ Day 20: Neuronal maturation
 
 # 📂 File Contents
 
-Fragment files (.tsv.gz):
+[Fragment files](https://figshare.com/s/576414a1251ad58742de) (.tsv.gz):
 
 Chromosome, start and end positions of fragments
 
@@ -31,7 +31,7 @@ Cell barcodes linking fragments to individual cells
 
 Fragment counts per cell
 
-Peak files (.bed or .tsv):
+[Peak files](https://figshare.com/s/8e8fd4fc4e11341a3518) (.bed or .tsv):
 
 Called accessible regions across cells
 
