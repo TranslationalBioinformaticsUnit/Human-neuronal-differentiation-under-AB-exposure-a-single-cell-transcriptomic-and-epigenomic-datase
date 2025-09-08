@@ -31,3 +31,18 @@ Contents: Raw and processed scRNA-seq and scATAC-seq data
 To support rapid and user-friendly data exploration, we provide a Shiny web application for interactive visualization and inspection of the scRNA-seq dataset:
 
 👉 [Launch Shiny App](https://translationalbio.shinyapps.io/neurogenesis/)
+
+
+# 💻 Code & Reproducibility
+
+All analysis code used to generate the results and figures from the study is available in this repository. This includes:
+
+Preprocessing of scRNA-seq and scATAC-seq data
+
+Integration and trajectory analysis
+
+Differential expression and enhancer gene regulatory network analysis
+
+Visualization scripts for reproducing key figures
+
+🔧 The code is organized into Python and R scripts, enabling full reproducibility of the study’s findings. Users can adapt these workflows for their own single-cell datasets.
