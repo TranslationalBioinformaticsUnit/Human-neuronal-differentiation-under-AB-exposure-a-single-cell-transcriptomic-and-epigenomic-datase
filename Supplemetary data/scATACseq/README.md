@@ -1,6 +1,6 @@
 # 🧬 scATAC-seq Fragments & Peaks
 
-This repository includes scATAC-seq fragment and peak files capturing chromatin accessibility dynamics during human adult hippocampal neurogenesis (AHN) across developmental stages, for both control and amyloid-β (Aβ)-treated conditions. These files provide the foundation for analyzing regulatory landscapes and integrating with scRNA-seq data.
+This repository includes scATAC-seq fragment and peak files capturing chromatin accessibility dynamics during human adult hippocampal neurogenesis (AHN) across developmental stages, for both control and amyloid-β (Aβ)-treated conditions. These files provide the foundation for analyzing regulatory landscapes and integrating with scRNA-seq data. All raw and processed scATAC-seq data are also available in the Gene Expression Omnibus (GEO): [GSE307094](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE307094).
 
 
 # 📌 Experimental Conditions
