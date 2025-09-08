@@ -25,7 +25,7 @@ Day 20: Neuronal maturation
 
 All raw and processed scRNA-seq data files are publicly available in the Gene Expression Omnibus (GEO):
 
-Accession: GSE307094
+Accession: [GSE307094](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE307094)
 
 No additional supplementary files are required for reusability.
 
