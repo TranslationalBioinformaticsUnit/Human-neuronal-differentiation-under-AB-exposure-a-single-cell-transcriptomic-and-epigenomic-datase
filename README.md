@@ -1,4 +1,4 @@
-# 🧠 Adult Hippocampal Neurogenesis Multi-Omics Dataset
+# 🧠 Adult Neurogenesis Multi-Omics Dataset
 
 This repository provides a time-resolved single-cell multi-omics dataset profiling adult hippocampal neurogenesis (AHN) in vitro, with and without Alzheimer’s disease (AD)-related pathology.
 
